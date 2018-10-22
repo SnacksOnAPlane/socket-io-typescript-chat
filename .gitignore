@@ -19,3 +19,4 @@
 # e2e
 /client/e2e/*.js
 /client/e2e/*.map
+/client/src/assets/scripts/creds.js
